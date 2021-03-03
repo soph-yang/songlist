@@ -1,0 +1,32 @@
+Record {
+    display: block;
+    border-bottom: 1px solid black;
+    padding: 20px 30px;
+}
+
+Record Artists {
+    font-size: 23px;
+}
+
+Record SongTitle {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+Record ArtistName:before {
+    content: "- ";
+}
+
+Record MusicGenre {
+    display: block;
+}
+
+Record MusicGenre:before {
+    content: "Music Genre: ";
+    font-weight: 700;
+}
+
+Record ReleaseYr:before {
+    content: "Release Year: ";
+    font-weight: 700;
+}
