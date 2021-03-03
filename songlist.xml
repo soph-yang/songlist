@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songliststyle.css" ?>
+
+<SetList>
+    <Record>
+        <SongTitle>Final Lullaby</SongTitle>
+        
+        <Artists>
+            <ArtistName>The Weeknd</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2020</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Purple Emoji</SongTitle>
+        
+        <Artists>
+            <ArtistName>Ty Dolla $ign</ArtistName>
+            <ArtistName>J. Cole</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2019</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>West Coast Love</SongTitle>
+        
+        <Artists>
+            <ArtistName>Emotional Oranges</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2019</ReleaseYr>
+    </Record>
+    
+    <Record>  
+        <SongTitle>Love Me Again</SongTitle>
+        
+        <Artists>
+            <ArtistName>John Newman</ArtistName>
+        </Artists>
+        
+        <MusicGenre>Pop</MusicGenre>
+        <ReleaseYr>2013</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Playing to Lose</SongTitle>
+        
+        <Artists>
+            <ArtistName>Lemaitre</ArtistName>
+            <ArtistName>Stanaj</ArtistName>
+        </Artists>
+        
+        <MusicGenre>Dance/Electronic</MusicGenre>
+        <ReleaseYr>2017</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Good Days</SongTitle>
+        
+        <Artists>
+            <ArtistName>SZA</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2020</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Damage</SongTitle>
+        
+        <Artists>
+            <ArtistName>H.E.R.</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2020</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Borderline</SongTitle>
+        
+        <Artists>
+            <ArtistName>Tove Styrke</ArtistName>
+        </Artists>
+        
+        <MusicGenre>Alternative/Indie</MusicGenre>
+        <ReleaseYr>2015</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Redemption</SongTitle>
+        
+        <Artists>
+            <ArtistName>Zacari</ArtistName>
+            <ArtistName>Babes Wodumo</ArtistName>
+        </Artists>
+        
+        <MusicGenre>Hip-Hop/Rap</MusicGenre>
+        <ReleaseYr>2018</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Thinking 'Bout You</SongTitle>
+        
+        <Artists>
+            <ArtistName>Dua Lipa</ArtistName>
+        </Artists>
+        
+        <MusicGenre>Pop</MusicGenre>
+        <ReleaseYr>2017</ReleaseYr>
+    </Record>
+    
+    <Record>
+        <SongTitle>Mystery Lady</SongTitle>
+        
+        <Artists>
+            <ArtistName>Masego</ArtistName>
+            <ArtistName>Don Toliver</ArtistName>
+        </Artists>
+        
+        <MusicGenre>R&amp;B/Soul</MusicGenre>
+        <ReleaseYr>2020</ReleaseYr>
+    </Record>
+</SetList>
